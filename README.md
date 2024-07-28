@@ -1,4 +1,4 @@
-#INSTALASI
+## INSTALASI
 ```
 pkg update && pkg upgrade
 ```
